@@ -1,0 +1,13 @@
+{
+  "name": "module-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only index.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.4"
+  }
+}
